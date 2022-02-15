@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest.js - Inject service from another module](https://medium.com/@hellokevinvogel/nest-js-inject-service-from-another-module-cf85987398d5) article published on Medium.
 
 ## Installation
 
